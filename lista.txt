@@ -1,0 +1,21 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 2E49-E7C8
+
+ Pasta de C:\git2
+
+14/07/2017  16:37    <DIR>          .
+14/07/2017  16:37    <DIR>          ..
+09/05/2017  08:14             5.361 br.procon.Fiscalizacao.Core.csproj
+16/06/2017  16:32             9.151 br.procon.Fiscalizacao.Core.Services.csproj
+07/07/2017  09:33            18.897 br.procon.Fiscalizacao.Model.csproj
+23/06/2017  10:48             9.636 br.procon.si.Core.Infra.Identity.csproj
+09/06/2017  16:01             5.716 br.procon.si.FiscalizacaoOperacional.Application.csproj
+09/06/2017  16:01             4.130 br.procon.si.FiscalizacaoOperacional.Data.csproj
+27/06/2017  16:20            10.949 br.procon.si.FiscalizacaoOperacional.Domain.csproj
+08/05/2017  13:34             5.530 br.procon.si.FiscalizacaoOperacional.Infra.csproj
+09/05/2017  08:14             3.928 br.procon.si.Infra.Email.csproj
+09/03/2017  00:27             3.875 br.procon.si.Infra.Log.csproj
+30/06/2017  16:33             6.027 br.procon.si.Infra.Notificacao.csproj
+14/07/2017  16:37                 0 lista.txt
+              12 arquivo(s)         83.200 bytes
+               2 pasta(s)   730.780.581.888 bytes dispon°veis
